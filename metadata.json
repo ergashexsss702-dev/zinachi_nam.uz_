@@ -1,0 +1,6 @@
+{
+  "name": "ZINACHI_NAM.UZ - Premium Yog'och Mahsulotlari",
+  "description": "ZINACHI_NAM.UZ — Namangan zinalar, MDF eshiklar va an'anaviy tobutlar ustaxonasi. Maxsus buyurtma, yuqori sifat va professional xizmat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
